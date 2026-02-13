@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
