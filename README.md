@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
 | ------- |
