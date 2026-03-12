@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2235-add-two-integers](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2469-convert-the-temperature) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
