@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0344-reverse-string) |
+| [0796-rotate-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3467-transform-array-by-parity) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
