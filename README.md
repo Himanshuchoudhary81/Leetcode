@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0796-rotate-string) |
