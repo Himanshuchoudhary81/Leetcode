@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0231-power-of-two) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0342-power-of-four) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
