@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -262,4 +265,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
