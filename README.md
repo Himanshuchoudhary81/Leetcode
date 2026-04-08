@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0343-integer-break](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
