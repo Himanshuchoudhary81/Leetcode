@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2427-number-of-common-factors) |
 | [2469-convert-the-temperature](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2427-number-of-common-factors) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
 |  |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
