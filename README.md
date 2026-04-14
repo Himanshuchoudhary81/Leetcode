@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0414-third-maximum-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0724-find-pivot-index) |
 | [0825-friends-of-appropriate-ages](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
@@ -320,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2427-number-of-common-factors) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
