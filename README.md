@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1929-concatenation-of-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0509-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
