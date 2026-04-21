@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3151-special-array-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -340,4 +341,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 <!---LeetCode Topics End-->
