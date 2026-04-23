@@ -3,9 +3,9 @@ class Solution {
         int low = 0 ; 
         int heigh = nums.length - 1 ;
         if( nums[low] < nums[heigh]) return nums[low] ;
-
-        while(low < heigh){
-            int mid = low + ( heigh - low) / 2;
+        int mid = 0 ;
+        while(low <=  heigh){
+             mid = low + ( heigh - low) / 2;
             if( nums[mid] > nums[heigh]){
                 low = mid + 1 ;
             }
@@ -16,6 +16,6 @@ class Solution {
                 heigh -- ;
             }
         }
-        return nums[heigh];
+        return nums[mid];
     }
 }
