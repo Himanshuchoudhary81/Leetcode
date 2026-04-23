@@ -16,6 +16,6 @@ class Solution {
                 heigh -- ;
             }
         }
-        return nums[low];
+        return nums[heigh];
     }
 }
