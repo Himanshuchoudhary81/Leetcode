@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
