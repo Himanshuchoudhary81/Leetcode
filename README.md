@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1652-defuse-the-bomb](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1652-defuse-the-bomb) |
 | [1732-find-the-highest-altitude](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1492-the-kth-factor-of-n](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1512-number-of-good-pairs](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1512-number-of-good-pairs](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Prefix Sum
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## String Matching
 |  |
