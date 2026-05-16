@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
+| [0292-nim-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0342-power-of-four) |
@@ -397,9 +398,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0319-bulb-switcher) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
