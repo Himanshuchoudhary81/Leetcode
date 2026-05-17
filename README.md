@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3151-special-array-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3151-special-array-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Binary Search
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Math
