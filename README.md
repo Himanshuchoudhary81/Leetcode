@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Recursion
 |  |
@@ -414,10 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
