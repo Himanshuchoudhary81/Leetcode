@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0788-rotated-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
