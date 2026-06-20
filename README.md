@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -391,11 +392,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Counting
 |  |
 | ------- |
@@ -482,5 +485,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
