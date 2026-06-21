@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Two Pointers
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
 | ------- |
