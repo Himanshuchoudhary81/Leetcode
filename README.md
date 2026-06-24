@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [3701-compute-alternating-sum](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -493,4 +494,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
