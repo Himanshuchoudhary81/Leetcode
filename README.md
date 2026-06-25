@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0292-nim-game) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0204-count-primes) |
 | [2427-number-of-common-factors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Sliding Window
 |  |
