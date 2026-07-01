@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
 |  |
 | ------- |
