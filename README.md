@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0908-smallest-range-i) |
+| [1006-clumsy-factorial](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 | [1033-moving-stones-until-consecutive](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1033-moving-stones-until-consecutive) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
+| [1006-clumsy-factorial](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1518-water-bottles](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1518-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1006-clumsy-factorial](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
