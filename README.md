@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2652-sum-multiples) |
+| [2745-construct-the-longest-new-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2745-construct-the-longest-new-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2745-construct-the-longest-new-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2745-construct-the-longest-new-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2745-construct-the-longest-new-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2745-construct-the-longest-new-string) |
 ## Recursion
 |  |
 | ------- |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2396-strictly-palindromic-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2745-construct-the-longest-new-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2745-construct-the-longest-new-string) |
 ## Game Theory
 |  |
 | ------- |
