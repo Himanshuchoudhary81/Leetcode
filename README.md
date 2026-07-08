@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3110-score-of-a-string) |
+| [3227-vowels-game-in-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2396-strictly-palindromic-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2745-construct-the-longest-new-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2745-construct-the-longest-new-string) |
+| [3227-vowels-game-in-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Game Theory
 |  |
 | ------- |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3227-vowels-game-in-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 ## Linked List
 |  |
 | ------- |
