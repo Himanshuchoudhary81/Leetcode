@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1952-three-divisors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Sliding Window
