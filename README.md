@@ -606,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
