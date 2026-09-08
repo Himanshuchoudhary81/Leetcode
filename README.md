@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3870-count-commas-in-range](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3870-count-commas-in-range) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Matrix
 |  |
