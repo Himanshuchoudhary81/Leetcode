@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1006-clumsy-factorial](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 ## Counting
 |  |
