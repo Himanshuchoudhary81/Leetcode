@@ -438,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0389-find-the-difference) |
+| [0520-detect-capital](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0796-rotate-string) |
