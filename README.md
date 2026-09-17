@@ -653,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0176-second-highest-salary) |
+| [0627-swap-sex-of-employees](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0627-swap-sex-of-employees) |
 ## Geometry
 |  |
 | ------- |
