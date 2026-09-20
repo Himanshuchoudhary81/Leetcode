@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3110-score-of-a-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Simulation
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
+| [3498-reverse-degree-of-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
