@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0908-smallest-range-i) |
 | [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+| [0932-beautiful-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0932-beautiful-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0908-smallest-range-i) |
+| [0932-beautiful-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0932-beautiful-array) |
 | [1006-clumsy-factorial](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1025-divisor-game) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0932-beautiful-array) |
 ## Greedy
 |  |
 | ------- |
