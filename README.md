@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2482-difference-between-ones-and-zeros-in-row-and-column) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
+| [2568-minimum-impossible-or](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2568-minimum-impossible-or) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3151-special-array-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3151-special-array-i) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2568-minimum-impossible-or](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2568-minimum-impossible-or) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-airplane-seat-assignment-probability](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [2396-strictly-palindromic-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2568-minimum-impossible-or](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2568-minimum-impossible-or) |
 | [2745-construct-the-longest-new-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2745-construct-the-longest-new-string) |
 | [3227-vowels-game-in-a-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
