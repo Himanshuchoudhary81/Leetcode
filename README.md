@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1323-maximum-69-number) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0413-arithmetic-slices](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0796-rotate-string) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1006-clumsy-factorial](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1006-clumsy-factorial) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1019-next-greater-node-in-linked-list) |
@@ -667,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
 | ------- |
