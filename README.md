@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
 | [2568-minimum-impossible-or](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2568-minimum-impossible-or) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3151-special-array-i](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3151-special-array-i) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1952-three-divisors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sliding Window
 |  |
