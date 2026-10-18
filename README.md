@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0204-count-primes) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0242-valid-anagram) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0912-sort-an-array) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0268-missing-number) |
@@ -538,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -691,4 +696,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
