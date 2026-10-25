@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0825-friends-of-appropriate-ages](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/2540-minimum-common-value) |
