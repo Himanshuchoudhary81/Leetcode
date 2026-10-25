@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0825-friends-of-appropriate-ages](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0825-friends-of-appropriate-ages](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Himanshuchoudhary81/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
