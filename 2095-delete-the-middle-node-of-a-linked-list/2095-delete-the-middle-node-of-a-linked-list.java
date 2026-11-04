@@ -19,17 +19,18 @@ class Solution {
        ListNode dummy = head ;
        ListNode dummy2 = head ;
 
-    while( curr.next != null ){
-     count++ ;
-    curr = curr.next ;
-    }
+        while( curr.next != null ){
+            count++ ;
+            curr = curr.next ;
+        }
 
-    int h = count / 2 ;
-    for( int i = 1 ; i < h ; i ++ ){
-        dummy2 = dummy2.next ;
-    }
+        int h = count / 2 ;
+        for( int i = 1 ; i < h ; i ++ ){
+            dummy2 = dummy2.next ;
+        }
 
-    dummy2.next = dummy2.next.next ;
-    return head ;
+        dummy2.next = dummy2.next.next ;
+        return head ;
+        
     }
 }
